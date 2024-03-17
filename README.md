@@ -31,9 +31,13 @@ Euer Token wird auf der Tiiber Entwicklerseite angezeigt. https://developer.tibb
 
 Als “Allowed hosts” wird noch “https://api.tibber.com” eingetragen.
 
+Mehr Einstellungen sind nicht nötig.
+
 ![Datasource](screenshots/datasource.png)
 
 
 ## Dashboard importieren
 
-https://grafana.com/grafana/dashboards/20712-tibber/
+Das Dashboard kann [hier](Tibber.json) heruntergeladen werden oder es wird die ID "20712" von [grafana.com](https://grafana.com/grafana/dashboards/20712-tibber/) genutzt.
+
+
