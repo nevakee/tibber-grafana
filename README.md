@@ -5,8 +5,8 @@ The dashboard has been developed for german-speaking users, so the rest of the d
 
 ## Screenshots
 
-![Grafana dashboard](screenshot-1.png)
-![Grafana dashboard](screenshot-2.png)
+![Grafana dashboard](screenshots/screenshot-1.png)
+![Grafana dashboard](screenshots/screenshot-2.png)
 
 
 ## Infos
@@ -30,6 +30,8 @@ In der Datenquelle wird als “Auth type” “Bearer Token” ausgewählt.
 Euer Token wird auf der Tiiber Entwicklerseite angezeigt. https://developer.tibber.com/settings/access-token 
 
 Als “Allowed hosts” wird noch “https://api.tibber.com” eingetragen.
+
+![Datasource](screenshots/datasource.png)
 
 
 ## Dashboard importieren
