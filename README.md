@@ -24,6 +24,8 @@ Das Dashboard nutzt das Plugin Infinity.
 Eine Installationsanleitung gibt es hier: 
 https://grafana.com/grafana/plugins/yesoreyeram-infinity-datasource/?tab=installation
 
+Einen aktiven Stromvertrag bei Tibber.
+
 
 ## Datenquelle einrichten
 
